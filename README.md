@@ -5,6 +5,7 @@ The purpose of a recommendation system basically is to search for content that w
 # DATASET
 
 ![image](https://user-images.githubusercontent.com/82249340/213220435-6737e0e3-4cf5-4943-aa34-4d179680117f.png)
+
 The dataset set contains a list of movies based on that the user can Insert the movies,Delete the movies and play the movies
 
 # LIBRARIES INSTALLED

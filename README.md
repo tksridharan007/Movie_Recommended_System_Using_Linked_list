@@ -6,7 +6,10 @@ The purpose of a recommendation system basically is to search for content that w
 
 ![image](https://user-images.githubusercontent.com/82249340/213220435-6737e0e3-4cf5-4943-aa34-4d179680117f.png)
 
-The dataset set contains a list of movies based on that the user can Insert the movies,Delete the movies and play the movies
+The dataset set contains a list of movies based on that the user can make intract by 
+1. Inserting the movies,
+2. Deleting the movies and 
+3. playing the movies
 
 # LIBRARIES INSTALLED
 1.  import pywhatkit
